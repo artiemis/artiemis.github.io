@@ -1,0 +1,59 @@
+html, body {
+	position: relative;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #1b1a1e;
+	font-family: Poppins, Arial, sans-serif;
+	font-size: 5px;
+	color: white;
+}
+
+.header {
+	margin: auto;
+	background-color: #131418;
+	padding: 5px;
+	font-size: 3em;
+	font-weight: 600;
+	text-align: center;
+}
+
+.content {
+	display: block;
+	margin: 4em 6em 4em 6em;
+}
+
+h1 {
+	font-size: 4em;
+	font-weight: 500;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
+p {
+	font-size: 2.5em;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
+#gura {
+	float: right;
+	border-radius: 50%;
+	width: 20em;
+	height: auto;
+	margin-top: 3em;
+	margin-left: 5em;
+}
+
+.footer {
+	margin: auto;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 5px;
+	background-color: #131418;
+	font-size: 2em;
+	text-align: center;
+	color: gray;
+}
