@@ -16,6 +16,7 @@ body {
 }
 
 .content {
+	display: block;
 	margin: 4em 14em 4em 14em;
 }
 
@@ -30,6 +31,15 @@ p {
 	font-size: 2.5em;
 	margin-top: 0.2em;
 	margin-bottom: 0.2em;
+}
+
+#gura {
+	float: right;
+	border-radius: 50%;
+	width: 20em;
+	height: auto;
+	margin-top: 3em;
+	margin-left: 5em;
 }
 
 .footer {
