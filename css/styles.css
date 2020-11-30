@@ -1,0 +1,46 @@
+body {
+	margin: auto;
+	background-color: #1b1a1e;
+	font-family: Poppins, Arial, sans-serif;
+	font-size: 10px;
+	color: white;
+}
+
+.header {
+	margin: auto;
+	background-color: #131418;
+	padding: 10px;
+	font-size: 3em;
+	font-weight: 600;
+	text-align: center;
+}
+
+.content {
+	margin: 4em 14em 4em 14em;
+}
+
+h1 {
+	font-size: 4em;
+	font-weight: 500;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
+p {
+	font-size: 2.5em;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
+.footer {
+	margin: auto;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 10px;
+	background-color: #131418;
+	font-size: 2em;
+	text-align: center;
+	color: gray;
+}
