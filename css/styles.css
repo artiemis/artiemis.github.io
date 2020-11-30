@@ -1,5 +1,8 @@
-body {
-	margin: auto;
+html, body {
+	position: relative;
+	height: 100%;
+	margin: 0;
+	padding: 0;
 	background-color: #1b1a1e;
 	font-family: Poppins, Arial, sans-serif;
 	font-size: 10px;
@@ -44,7 +47,7 @@ p {
 
 .footer {
 	margin: auto;
-	position: absolute;
+	position: fixed;
 	left: 0;
 	right: 0;
 	bottom: 0;
